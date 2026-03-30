@@ -2,3 +2,5 @@ requests
 pandas
 urllib3
 openpyxl
+defusedxml
+python-dotenv
